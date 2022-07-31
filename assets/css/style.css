@@ -309,7 +309,7 @@ h1, h2, h3, h4, h5, h6 {
 @media (max-width: 400px) {
   #hero {
     text-align: center;
-    height: 90vh;
+    height: 100vh;
     /* background-size: 330px 700px; */
     background: url("../img/hero-bg2.jpg") top right no-repeat;
   }
